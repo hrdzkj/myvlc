@@ -1,0 +1,192 @@
+﻿  dllmain.cpp
+  xiph_metadata.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(74): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(135): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(177): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(178): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(179): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(128): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(130): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(131): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(132): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(133): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(295): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(296): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(297): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(298): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(299): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(300): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(305): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(308): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(311): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(321): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(322): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(323): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(324): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(325): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(326): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(327): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(328): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(329): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(330): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(331): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(353): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(357): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(359): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(363): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(367): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(369): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(373): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(375): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(377): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(379): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(382): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(392): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(398): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(400): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\xiph_metadata.c(404): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+  oggseek.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_demux.h(211): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(227): warning C4244: “函数”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(229): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(231): warning C4244: “函数”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(281): warning C4244: “函数”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(462): warning C4244: “return”: 从“ogg_int64_t”转换到“char”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(687): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(698): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(705): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(716): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(729): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(737): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(936): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(948): warning C4244: “函数”: 从“double”转换到“int64_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(975): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(995): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(1021): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\oggseek.c(1085): warning C4244: “函数”: 从“int64_t”转换到“long”，可能丢失数据
+  ogg.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_demux.h(211): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(74): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(135): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(177): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(178): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(179): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(563): warning C4244: “-=”: 从“double”转换到“int64_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(576): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(837): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(993): warning C4244: “=”: 从“ogg_int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(1002): warning C4244: “=”: 从“double”转换到“mtime_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(1014): warning C4244: “+=”: 从“double”转换到“mtime_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(1059): warning C4244: “=”: 从“double”转换到“mtime_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(1769): warning C4244: “=”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(1814): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(1898): warning C4244: “=”: 从“ogg_int64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(1947): warning C4244: “=”: 从“ogg_int16_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(1951): warning C4244: “=”: 从“ogg_int64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2404): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2574): warning C4244: “=”: 从“long”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2642): warning C4244: “=”: 从“long”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2676): warning C4244: “=”: 从“long”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2757): warning C4244: “=”: 从“long”转换到“char”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2769): warning C4244: “=”: 从“long”转换到“char”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2773): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2831): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2889): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2916): warning C4244: “=”: 从“long”转换到“uint16_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2917): warning C4244: “=”: 从“long”转换到“uint16_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2943): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(2949): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\ogg.c(3126): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Data\code\vlc-2.2.6.32-2015\Debug\ogg.dll) does not match the Linker's OutputFile property value (C:\Data\code\vlc-2.2.6.32-2015\Debug\vlc\plugins\demux\libogg_plugin.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(ogg) does not match the Linker's OutputFile property value (libogg_plugin). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     正在创建库 C:\Data\code\vlc-2.2.6.32-2015\Debug\ogg.lib 和对象 C:\Data\code\vlc-2.2.6.32-2015\Debug\ogg.exp
+  ogg.vcxproj -> C:\Data\code\vlc-2.2.6.32-2015\Debug\ogg.dll

@@ -1,0 +1,135 @@
+﻿  bdagraph.cpp
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(226): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(243): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(494): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(568): warning C4244: “=”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(569): warning C4244: “=”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(682): warning C4244: “=”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(683): warning C4244: “=”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(684): warning C4244: “=”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(1218): warning C4244: “=”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(1219): warning C4244: “=”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(1220): warning C4244: “=”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(1221): warning C4244: “=”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(1839): warning C4244: “=”: 从“int64_t”转换到“long”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(2311): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(2504): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\bdagraph.cpp(3068): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(477) : 参见“_snwprintf”的声明
+  dllmain.cpp
+  正在生成代码...
+  access.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(74): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(135): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(177): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(178): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(179): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(488): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(551): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(606): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(608): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(610): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(612): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(614): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(616): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(618): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(620): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(622): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(624): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(634): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(643): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(650): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(677): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(702): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(727): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(737): warning C4996: 'lfind': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _lfind. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\search.h(111) : 参见“lfind”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(772): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(796): warning C4244: “函数”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(805): warning C4244: “函数”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(816): warning C4244: “初始化”: 从“int64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(818): warning C4244: “函数”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(839): warning C4244: “初始化”: 从“int64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(855): warning C4244: “初始化”: 从“int64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(856): warning C4244: “初始化”: 从“int64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(857): warning C4244: “初始化”: 从“int64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(865): warning C4244: “初始化”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(877): warning C4244: “初始化”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(878): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(879): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(880): warning C4244: “初始化”: 从“int64_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(899): warning C4244: “初始化”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(900): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(901): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(903): warning C4244: “函数”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(911): warning C4244: “初始化”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(912): warning C4244: “初始化”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(913): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(915): warning C4244: “函数”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(927): warning C4244: “初始化”: 从“int64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(929): warning C4244: “函数”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(938): warning C4244: “初始化”: 从“int64_t”转换到“uint16_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(954): warning C4244: “初始化”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(955): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(963): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(965): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(967): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(968): warning C4244: “=”: 从“int64_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(969): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(970): warning C4244: “=”: 从“int64_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\dtv\access.c(973): warning C4244: “函数”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Data\code\vlc-2.2.6.32-2015\Debug\dtv.dll) does not match the Linker's OutputFile property value (C:\Data\code\vlc-2.2.6.32-2015\Debug\vlc\plugins\access\libdtv_plugin.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(dtv) does not match the Linker's OutputFile property value (libdtv_plugin). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     正在创建库 C:\Data\code\vlc-2.2.6.32-2015\Debug\dtv.lib 和对象 C:\Data\code\vlc-2.2.6.32-2015\Debug\dtv.exp
+  dtv.vcxproj -> C:\Data\code\vlc-2.2.6.32-2015\Debug\dtv.dll

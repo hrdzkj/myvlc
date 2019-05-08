@@ -1,0 +1,76 @@
+﻿  dllmain.cpp
+  libasf.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_demux.h(211): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(99): warning C4244: “=”: 从“uint16_t”转换到“char”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(105): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(263): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(286): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(367): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(471): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(540): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(625): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(728): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(780): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(830): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(873): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(1017): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(1075): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(1125): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(1187): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(1241): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(1299): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\libasf.c(1645): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+  asf.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_demux.h(211): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(74): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(135): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(177): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(178): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(179): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\asf.c(296): warning C4244: “=”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\asf.c(336): warning C4244: “=”: 从“float”转换到“mtime_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\asf.c(480): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\asf.c(1296): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\asf.c(1341): warning C4244: “=”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\asf.c(1377): warning C4244: “=”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\asf.c(1385): warning C4244: “=”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\asf.c(1422): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\asf\asf.c(1463): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Data\code\vlc-2.2.6.32-2015\Debug\asf.dll) does not match the Linker's OutputFile property value (C:\Data\code\vlc-2.2.6.32-2015\Debug\vlc\plugins\demux\libasf_plugin.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(asf) does not match the Linker's OutputFile property value (libasf_plugin). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     正在创建库 C:\Data\code\vlc-2.2.6.32-2015\Debug\asf.lib 和对象 C:\Data\code\vlc-2.2.6.32-2015\Debug\asf.exp
+  asf.vcxproj -> C:\Data\code\vlc-2.2.6.32-2015\Debug\asf.dll

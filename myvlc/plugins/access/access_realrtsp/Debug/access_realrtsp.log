@@ -1,0 +1,208 @@
+﻿  dllmain.cpp
+  rtsp.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(99): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(117): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(139): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 参见“strncpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(174): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(200): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(207): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(240): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(242): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(252): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(255): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(262): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(265): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(272): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(278): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(311): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(327): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(332): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(346): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(353): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(373): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(380): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(395): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(402): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(443): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(444): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(457): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(493): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(504): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(513): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(515): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(528): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 参见“strncpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(531): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(537): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 参见“strncpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(618): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(641): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\rtsp.c(671): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+  real_sdpplin.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_sdpplin.c(87): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_sdpplin.c(105): warning C4244: “=”: 从“unsigned long”转换到“uint16_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_sdpplin.c(139): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_sdpplin.c(145): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_sdpplin.c(162): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_sdpplin.c(271): warning C4244: “=”: 从“unsigned long”转换到“uint16_t”，可能丢失数据
+  real_rmff.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_rmff.c(377): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_rmff.c(382): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_rmff.c(418): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_rmff.c(423): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_rmff.c(427): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_rmff.c(431): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+  real_asmrp.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_asmrp.c(123): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real_asmrp.c(375): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+  real.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(348): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(468): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(469): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(633): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(637): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(680): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(698): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(714): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(718): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(723): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(730): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\real.c(734): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  access.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\access.c(120): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 参见“strncpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\access.c(202): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\access.c(206): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\rtsp\access.c(208): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Data\code\vlc-2.2.6.32-2015\Debug\access_realrtsp.dll) does not match the Linker's OutputFile property value (C:\Data\code\vlc-2.2.6.32-2015\Debug\vlc\plugins\access\libaccess_realrtsp_plugin.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(access_realrtsp) does not match the Linker's OutputFile property value (libaccess_realrtsp_plugin). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     正在创建库 C:\Data\code\vlc-2.2.6.32-2015\Debug\access_realrtsp.lib 和对象 C:\Data\code\vlc-2.2.6.32-2015\Debug\access_realrtsp.exp
+  access_realrtsp.vcxproj -> C:\Data\code\vlc-2.2.6.32-2015\Debug\access_realrtsp.dll

@@ -1,0 +1,41 @@
+﻿  hb-ft.cc
+c:\data\code\vlc-2.2.6.32-2015\harfbuzz-0.9.19\hb-private.hh : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\data\code\vlc-2.2.6.32-2015\harfbuzz-0.9.19\hb-private.hh(859): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 参见“strncpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\win32\include\freetype2\freetype\freetype.h(2614): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\data\code\vlc-2.2.6.32-2015\harfbuzz-0.9.19\hb-font-private.hh(429): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\harfbuzz-0.9.19\hb-ft.cc(258): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 参见“strncpy”的声明
+  dllmain.cpp
+  正在生成代码...
+  libass.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(74): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(135): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(177): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(178): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(179): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\codec\libass.c(173): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\codec\libass.c(180): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Data\code\vlc-2.2.6.32-2015\Debug\libass.dll) does not match the Linker's OutputFile property value (C:\Data\code\vlc-2.2.6.32-2015\Debug\vlc\plugins\codec\liblibass_plugin.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(libass) does not match the Linker's OutputFile property value (liblibass_plugin). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     正在创建库 C:\Data\code\vlc-2.2.6.32-2015\Debug\libass.lib 和对象 C:\Data\code\vlc-2.2.6.32-2015\Debug\libass.exp
+  libass.vcxproj -> C:\Data\code\vlc-2.2.6.32-2015\Debug\libass.dll

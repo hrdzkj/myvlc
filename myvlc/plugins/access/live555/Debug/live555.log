@@ -1,0 +1,730 @@
+﻿  live555.cpp
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(74): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(135): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(177): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(178): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(179): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_demux.h(211): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(35): warning C4005: “EWOULDBLOCK”: 宏重定义
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(132) : 参见“EWOULDBLOCK”的前一个定义
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(36): warning C4005: “EINPROGRESS”: 宏重定义
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(104) : 参见“EINPROGRESS”的前一个定义
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(37): warning C4005: “EAGAIN”: 宏重定义
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(50) : 参见“EAGAIN”的前一个定义
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(38): warning C4005: “EINTR”: 宏重定义
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(43) : 参见“EINTR”的前一个定义
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(317): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(335): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(518): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(556): warning C4244: “初始化”: 从“int64_t”转换到“const int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(572): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(573): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(592): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(695): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(738): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(821): warning C4800: “Boolean”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(1480): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(1589): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(1617): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(1774): warning C4800: “unsigned int”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(1775): warning C4800: “unsigned int”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(1776): warning C4800: “unsigned int”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(1777): warning C4800: “unsigned int”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(1880): warning C4309: “=”: 截断常量值
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(1919): warning C4309: “=”: 截断常量值
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(1958): warning C4309: “=”: 截断常量值
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(2005): warning C4800: “Boolean”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(2042): warning C4309: “=”: 截断常量值
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(2064): warning C4309: “=”: 截断常量值
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(2065): warning C4309: “=”: 截断常量值
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(2090): warning C4309: “=”: 截断常量值
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(2100): warning C4309: “=”: 截断常量值
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(2146): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(2191): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access\live555.cpp(2231): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+  UsageEnvironment.cpp
+  strDup.cpp
+  HashTable.cpp
+  WAVAudioFileSource.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\wavaudiofilesource.cpp(140): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  WAVAudioFileServerMediaSubsession.cpp
+  VP8VideoRTPSource.cpp
+  VP8VideoRTPSink.cpp
+  VP8VideoMatroskaFileServerMediaSubsession.cpp
+  VorbisAudioRTPSource.cpp
+  VorbisAudioRTPSink.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\vorbisaudiortpsink.cpp(106): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  VorbisAudioMatroskaFileServerMediaSubsession.cpp
+  VideoRTPSink.cpp
+  uLawAudioFilter.cpp
+  TextRTPSink.cpp
+  TCPStreamSink.cpp
+  T140TextRTPSink.cpp
+  T140TextMatroskaFileServerMediaSubsession.cpp
+  StreamParser.cpp
+  SIPClient.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(113): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(210): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(238): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(279): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(497): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(524): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(531): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(657): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(698): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(792): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(865): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\sipclient.cpp(938): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+  正在生成代码...
+  正在编译...
+  SimpleRTPSource.cpp
+  SimpleRTPSink.cpp
+  ServerMediaSession.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\servermediasession.cpp(198): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\servermediasession.cpp(226): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\servermediasession.cpp(271): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\servermediasession.cpp(278): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\servermediasession.cpp(329): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\servermediasession.cpp(387): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  RTSPServerSupportingHTTPStreaming.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserversupportinghttpstreaming.cpp(69): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(99) : 参见“gmtime”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserversupportinghttpstreaming.cpp(83): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserversupportinghttpstreaming.cpp(145): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserversupportinghttpstreaming.cpp(208): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserversupportinghttpstreaming.cpp(215): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserversupportinghttpstreaming.cpp(222): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserversupportinghttpstreaming.cpp(238): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+  RTSPServer.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(96): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(118): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(121): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(563): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(569): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(575): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(582): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(589): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(606): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(607): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(609): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(633): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(654): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(699): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(709): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(711): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(714): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(717): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(762): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(900): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(916): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(931): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(944): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(957): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1042): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1061): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1092): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1166): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1168): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1199): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1226): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1242): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1264): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1345): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1351): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1372): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1425): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1459): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspserver.cpp(1519): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+  RTSPCommon.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspcommon.cpp(142): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspcommon.cpp(154): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspcommon.cpp(157): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspcommon.cpp(163): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspcommon.cpp(165): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspcommon.cpp(192): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(99) : 参见“gmtime”的声明
+  RTSPClient.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(115): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(134): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(247): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(276): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(308): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(432): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(439): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(444): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(459): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(473): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(487): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(491): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(548): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(576): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(607): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(615): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(653): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(667): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(690): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(703): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(739): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(760): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(796): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(828): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(867): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(868): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(870): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(875): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(885): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(925): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(934): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(936): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(955): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(965): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(1118): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(1120): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(1404): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 参见“strncpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(1431): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(1451): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtspclient.cpp(1493): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  RTPSource.cpp
+  RTPSink.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtpsink.cpp(130): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\rtpsink.cpp(141): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  RTPInterface.cpp
+  RTCP.cpp
+  QuickTimeGenericRTPSource.cpp
+  QuickTimeFileSink.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\quicktimefilesink.cpp(2154): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\quicktimefilesink.cpp(2181): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\quicktimefilesink.cpp(2187): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\quicktimefilesink.cpp(2204): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\quicktimefilesink.cpp(2296): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  QCELPAudioRTPSource.cpp
+  PassiveServerMediaSubsession.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\passiveservermediasubsession.cpp(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  OutputFile.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\outputfile.cpp(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+  OnDemandServerMediaSubsession.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\ondemandservermediasubsession.cpp(337): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  MultiFramedRTPSource.cpp
+  MultiFramedRTPSink.cpp
+  MPEGVideoStreamParser.cpp
+  正在生成代码...
+  正在编译...
+  MPEGVideoStreamFramer.cpp
+  MPEG4VideoStreamFramer.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mpeg4videostreamframer.cpp(423): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  MPEG4VideoStreamDiscreteFramer.cpp
+  MPEG4VideoFileServerMediaSubsession.cpp
+  MPEG4LATMAudioRTPSource.cpp
+  MPEG4LATMAudioRTPSink.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mpeg4latmaudiortpsink.cpp(44): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  MPEG4GenericRTPSource.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mpeg4genericrtpsource.cpp(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  MPEG4GenericRTPSink.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mpeg4genericrtpsink.cpp(58): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  MPEG4ESVideoRTPSource.cpp
+  MPEG4ESVideoRTPSink.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mpeg4esvideortpsink.cpp(118): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mpeg4esvideortpsink.cpp(121): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mpeg4esvideortpsink.cpp(124): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  MPEG2TransportStreamTrickModeFilter.cpp
+  MPEG2TransportStreamMultiplexor.cpp
+  MPEG2TransportStreamIndexFile.cpp
+  MPEG2TransportStreamFromPESSource.cpp
+  MPEG2TransportStreamFromESSource.cpp
+  MPEG2TransportStreamFramer.cpp
+  MPEG2TransportFileServerMediaSubsession.cpp
+  MPEG2IndexFromTransportStream.cpp
+  MPEG1or2VideoStreamFramer.cpp
+  MPEG1or2VideoStreamDiscreteFramer.cpp
+  正在生成代码...
+  正在编译...
+  MPEG1or2VideoRTPSource.cpp
+  MPEG1or2VideoRTPSink.cpp
+  MPEG1or2VideoFileServerMediaSubsession.cpp
+  MPEG1or2FileServerDemux.cpp
+  MPEG1or2DemuxedServerMediaSubsession.cpp
+  MPEG1or2DemuxedElementaryStream.cpp
+  MPEG1or2Demux.cpp
+  MPEG1or2AudioStreamFramer.cpp
+  MPEG1or2AudioRTPSource.cpp
+  MPEG1or2AudioRTPSink.cpp
+  MP3Transcoder.cpp
+  MP3StreamState.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mp3streamstate.cpp(185): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mp3streamstate.cpp(204): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mp3streamstate.cpp(408): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _fileno. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(718) : 参见“fileno”的声明
+  MP3InternalsHuffmanTable.cpp
+  MP3InternalsHuffman.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mp3internalshuffman.cpp(305): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mp3internalshuffman.cpp(354): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mp3internalshuffman.cpp(365): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mp3internalshuffman.cpp(376): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+  MP3Internals.cpp
+  MP3HTTPSource.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mp3httpsource.cpp(55): warning C4996: 'fdopen': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _fdopen. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(716) : 参见“fdopen”的声明
+  MP3FileSource.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mp3filesource.cpp(147): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  MP3AudioMatroskaFileServerMediaSubsession.cpp
+  MP3AudioFileServerMediaSubsession.cpp
+  MP3ADUTranscoder.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mp3adutranscoder.cpp(56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  正在生成代码...
+  正在编译...
+  MP3ADURTPSource.cpp
+  MP3ADURTPSink.cpp
+  MP3ADUinterleaving.cpp
+  MP3ADUdescriptor.cpp
+  MP3ADU.cpp
+  MediaSource.cpp
+  MediaSink.cpp
+  MediaSession.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(142): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(150): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(229): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(280): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(294): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(308): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(336): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(347): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(355): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(394): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(611): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(850): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(869): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(894): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(950): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(952): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(954): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(956): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(958): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(960): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(962): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(964): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(966): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(968): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(970): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(972): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(974): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(976): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(979): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(981): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(983): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(985): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(987): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(989): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(992): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(995): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(997): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(1000): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(1002): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(1008): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(1051): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(1066): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(1069): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(1224): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\mediasession.cpp(1263): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  Media.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\media.cpp(182): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  MatroskaFileServerDemux.cpp
+  MatroskaFileParser.cpp
+  MatroskaFile.cpp
+  MatroskaDemuxedTrack.cpp
+  Locale.cpp
+  JPEGVideoSource.cpp
+  JPEGVideoRTPSource.cpp
+  JPEGVideoRTPSink.cpp
+  InputFile.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\inputfile.cpp(42): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+  H264VideoStreamFramer.cpp
+  H264VideoStreamDiscreteFramer.cpp
+  正在生成代码...
+  正在编译...
+  H264VideoRTPSource.cpp
+  H264VideoRTPSink.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\h264videortpsink.cpp(135): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  H264VideoMatroskaFileServerMediaSubsession.cpp
+  H264VideoFileSink.cpp
+  H264VideoFileServerMediaSubsession.cpp
+  H263plusVideoStreamParser.cpp
+  H263plusVideoStreamFramer.cpp
+  H263plusVideoRTPSource.cpp
+  H263plusVideoRTPSink.cpp
+  H263plusVideoFileServerMediaSubsession.cpp
+  H261VideoRTPSource.cpp
+  GSMAudioRTPSink.cpp
+  FramedSource.cpp
+  FramedFilter.cpp
+  FramedFileSource.cpp
+  FileSink.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\filesink.cpp(96): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  FileServerMediaSubsession.cpp
+  EBMLNumber.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\ebmlnumber.cpp(35): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  DVVideoStreamFramer.cpp
+  DVVideoRTPSource.cpp
+  正在生成代码...
+  正在编译...
+  DVVideoRTPSink.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\dvvideortpsink.cpp(92): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  DVVideoFileServerMediaSubsession.cpp
+  DigestAuthentication.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\digestauthentication.cpp(99): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 参见“strncpy”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\digestauthentication.cpp(105): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\digestauthentication.cpp(112): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\digestauthentication.cpp(121): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  DeviceSource.cpp
+  DarwinInjector.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\darwininjector.cpp(135): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\darwininjector.cpp(189): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\darwininjector.cpp(193): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\darwininjector.cpp(302): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\darwininjector.cpp(313): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\darwininjector.cpp(340): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  ByteStreamMultiFileSource.cpp
+  ByteStreamMemoryBufferSource.cpp
+  ByteStreamFileSource.cpp
+  BitVector.cpp
+  BasicUDPSource.cpp
+  BasicUDPSink.cpp
+  Base64.cpp
+  AVIFileSink.cpp
+  AudioRTPSink.cpp
+  AudioInputDevice.cpp
+  AMRAudioSource.cpp
+  AMRAudioRTPSource.cpp
+  AMRAudioRTPSink.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\amraudiortpsink.cpp(130): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  AMRAudioFileSource.cpp
+  AMRAudioFileSink.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\amraudiofilesink.cpp(77): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  正在生成代码...
+  正在编译...
+  AMRAudioFileServerMediaSubsession.cpp
+  ADTSAudioFileSource.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\adtsaudiofilesource.cpp(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  ADTSAudioFileServerMediaSubsession.cpp
+  AC3AudioStreamFramer.cpp
+  AC3AudioRTPSource.cpp
+  AC3AudioRTPSink.cpp
+  AC3AudioMatroskaFileServerMediaSubsession.cpp
+  AC3AudioFileServerMediaSubsession.cpp
+  AACAudioMatroskaFileServerMediaSubsession.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\aacaudiomatroskafileservermediasubsession.cpp(39): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  NetInterface.cpp
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(43): warning C4005: “EINTR”: 宏重定义
+          c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(38) : 参见“EINTR”的前一个定义
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(50): warning C4005: “EAGAIN”: 宏重定义
+          c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(37) : 参见“EAGAIN”的前一个定义
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(104): warning C4005: “EINPROGRESS”: 宏重定义
+          c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(36) : 参见“EINPROGRESS”的前一个定义
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(132): warning C4005: “EWOULDBLOCK”: 宏重定义
+          c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(35) : 参见“EWOULDBLOCK”的前一个定义
+  NetAddress.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\netaddress.cpp(307): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  IOHandlers.cpp
+  GroupsockHelper.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\groupsockhelper.cpp(145): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\groupsockhelper.cpp(246): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\groupsockhelper.cpp(325): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\groupsockhelper.cpp(627): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\groupsockhelper.cpp(662): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(86) : 参见“ctime”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\groupsockhelper.cpp(664): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\groupsockhelper.cpp(719): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+  Groupsock.cpp
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(43): warning C4005: “EINTR”: 宏重定义
+          c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(38) : 参见“EINTR”的前一个定义
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(50): warning C4005: “EAGAIN”: 宏重定义
+          c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(37) : 参见“EAGAIN”的前一个定义
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(104): warning C4005: “EINPROGRESS”: 宏重定义
+          c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(36) : 参见“EINPROGRESS”的前一个定义
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\errno.h(132): warning C4005: “EWOULDBLOCK”: 宏重定义
+          c:\data\code\vlc-2.2.6.32-2015\live\groupsock\include\netcommon.h(35) : 参见“EWOULDBLOCK”的前一个定义
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\groupsock.cpp(505): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\live\groupsock\groupsock.cpp(519): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  GroupEId.cpp
+  DelayQueue.cpp
+  BasicUsageEnvironment0.cpp
+c:\data\code\vlc-2.2.6.32-2015\live\basicusageenvironment\basicusageenvironment0.cpp(66): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+  BasicUsageEnvironment.cpp
+  BasicTaskScheduler0.cpp
+  BasicTaskScheduler.cpp
+  正在生成代码...
+  正在编译...
+  BasicHashTable.cpp
+  dllmain.cpp
+  正在生成代码...
+  buffer.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access\mms\buffer.c(198): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+  asf.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+  rtcp_from_spec.c
+  our_md5hl.c
+c:\data\code\vlc-2.2.6.32-2015\live\livemedia\our_md5hl.c(50): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+  our_md5.c
+  inet.c
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Data\code\vlc-2.2.6.32-2015\Debug\live555.dll) does not match the Linker's OutputFile property value (C:\Data\code\vlc-2.2.6.32-2015\Debug\vlc\plugins\access\liblive555_plugin.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(live555) does not match the Linker's OutputFile property value (liblive555_plugin). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     正在创建库 C:\Data\code\vlc-2.2.6.32-2015\Debug\live555.lib 和对象 C:\Data\code\vlc-2.2.6.32-2015\Debug\live555.exp
+  live555.vcxproj -> C:\Data\code\vlc-2.2.6.32-2015\Debug\live555.dll

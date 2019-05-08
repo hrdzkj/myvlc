@@ -1,0 +1,33 @@
+﻿  dllmain.cpp
+  file.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\access_output\file.c(161): warning C4996: 'setmode': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _setmode. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(338) : 参见“setmode”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access_output\file.c(161): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _fileno. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(718) : 参见“fileno”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access_output\file.c(163): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _fileno. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(718) : 参见“fileno”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access_output\file.c(224): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _lseek. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(334) : 参见“lseek”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access_output\file.c(236): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _close. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(326) : 参见“close”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access_output\file.c(278): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _read. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(337) : 参见“read”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access_output\file.c(293): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _write. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(342) : 参见“write”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\access_output\file.c(324): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _lseek. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(334) : 参见“lseek”的声明
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Data\code\vlc-2.2.6.32-2015\Debug\access_output_file.dll) does not match the Linker's OutputFile property value (C:\Data\code\vlc-2.2.6.32-2015\Debug\vlc\plugins\access_output\libaccess_output_file_plugin.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(access_output_file) does not match the Linker's OutputFile property value (libaccess_output_file_plugin). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     正在创建库 C:\Data\code\vlc-2.2.6.32-2015\Debug\access_output_file.lib 和对象 C:\Data\code\vlc-2.2.6.32-2015\Debug\access_output_file.exp
+  access_output_file.vcxproj -> C:\Data\code\vlc-2.2.6.32-2015\Debug\access_output_file.dll

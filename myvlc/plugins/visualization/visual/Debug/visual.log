@@ -1,0 +1,105 @@
+﻿  dllmain.cpp
+  window.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\window.c(62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\window.c(70): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\window.c(92): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\window.c(205): warning C4244: “*=”: 从“float”转换到“int16_t”，可能丢失数据
+  visual.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\visual.c(203): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\visual.c(204): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\visual.c(238): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(255) : 参见“strnicmp”的声明
+  fft.c
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\fft.c(73): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\fft.c(74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\fft.c(75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  effects.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(158): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(159): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(182): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(217): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(220): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(234): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(319): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(497): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(498): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(499): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(500): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(501): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(502): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(503): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(504): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(505): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(506): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(507): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(508): warning C4244: “=”: 从“int64_t”转换到“char”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(530): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(565): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(583): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(584): warning C4244: “=”: 从“const double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(594): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(664): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(713): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(741): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(742): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(772): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(783): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(784): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(829): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(830): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(910): warning C4244: “=”: 从“float”转换到“int8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(922): warning C4244: “=”: 从“float”转换到“int8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(970): warning C4305: “=”: 从“double”到“float”截断
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(972): warning C4305: “=”: 从“double”到“float”截断
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1011): warning C4305: “=”: 从“double”到“float”截断
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1012): warning C4305: “=”: 从“double”到“float”截断
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1012): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1016): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1017): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1021): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1037): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1040): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1041): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1054): warning C4305: “=”: 从“double”到“float”截断
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1054): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1058): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\visualization\visual\effects.c(1059): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Data\code\vlc-2.2.6.32-2015\Debug\visual.dll) does not match the Linker's OutputFile property value (C:\Data\code\vlc-2.2.6.32-2015\Debug\vlc\plugins\visualization\libvisual_plugin.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(visual) does not match the Linker's OutputFile property value (libvisual_plugin). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     正在创建库 C:\Data\code\vlc-2.2.6.32-2015\Debug\visual.lib 和对象 C:\Data\code\vlc-2.2.6.32-2015\Debug\visual.exp
+  visual.vcxproj -> C:\Data\code\vlc-2.2.6.32-2015\Debug\visual.dll

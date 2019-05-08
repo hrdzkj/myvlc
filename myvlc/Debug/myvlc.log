@@ -1,0 +1,10 @@
+﻿  myvlc.cpp
+myvlc.obj : error LNK2019: 无法解析的外部符号 _libvlc_new，该符号在函数 _main 中被引用
+myvlc.obj : error LNK2019: 无法解析的外部符号 _libvlc_release，该符号在函数 _main 中被引用
+myvlc.obj : error LNK2019: 无法解析的外部符号 _libvlc_media_new_location，该符号在函数 _main 中被引用
+myvlc.obj : error LNK2019: 无法解析的外部符号 _libvlc_media_release，该符号在函数 _main 中被引用
+myvlc.obj : error LNK2019: 无法解析的外部符号 _libvlc_media_player_new_from_media，该符号在函数 _main 中被引用
+myvlc.obj : error LNK2019: 无法解析的外部符号 _libvlc_media_player_release，该符号在函数 _main 中被引用
+myvlc.obj : error LNK2019: 无法解析的外部符号 _libvlc_media_player_play，该符号在函数 _main 中被引用
+myvlc.obj : error LNK2019: 无法解析的外部符号 _libvlc_media_player_stop，该符号在函数 _main 中被引用
+C:\Data\code\testVlc\myvlc\Debug\myvlc.exe : fatal error LNK1120: 8 个无法解析的外部命令

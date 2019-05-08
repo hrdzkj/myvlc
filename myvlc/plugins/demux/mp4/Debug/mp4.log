@@ -1,0 +1,278 @@
+﻿  dllmain.cpp
+  mp4.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_demux.h(211): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(74): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(135): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(177): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(178): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_input.h(179): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(581): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(605): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1068): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1157): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1312): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1316): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1381): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1384): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1387): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1390): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1393): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1396): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1399): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1408): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1412): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1418): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1423): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1429): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1433): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1438): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1442): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1446): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1494): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(1600): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(2298): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(2496): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(2498): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(2970): warning C4244: “+=”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(3210): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(3224): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(3228): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(3782): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(5056): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(5096): warning C4244: “-=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\mp4.c(5289): warning C4244: “-=”: 从“float”转换到“mtime_t”，可能丢失数据
+  libmp4.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(308): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(308): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(313): warning C4244: “=”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(348): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(348): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(413): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(413): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(428): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(428): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(459): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(459): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(512): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(512): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(578): warning C4098: “MP4_FreeBox_uuid”:“void”函数返回值
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(580): warning C4098: “MP4_FreeBox_uuid”:“void”函数返回值
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(582): warning C4098: “MP4_FreeBox_uuid”:“void”函数返回值
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(584): warning C4098: “MP4_FreeBox_uuid”:“void”函数返回值
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(589): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(589): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(652): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(652): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(714): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(714): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(775): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(775): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(831): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(875): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(875): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(920): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(920): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(934): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(945): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(952): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(973): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(973): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(995): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(995): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1015): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1015): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1039): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1039): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1042): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1060): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1060): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1064): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1065): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1083): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1083): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1108): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1108): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1150): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1150): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1217): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1217): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1334): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1334): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1337): warning C4244: “=”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1342): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1375): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1375): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1378): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1383): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1474): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1474): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1500): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1500): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1512): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1518): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1533): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1533): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1549): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1549): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1580): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1580): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1617): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1617): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1642): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1645): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1646): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1706): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1789): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1789): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1803): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1806): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1808): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1878): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1878): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1929): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1929): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1977): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1977): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1998): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(1998): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2043): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2043): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2079): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2079): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2125): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2125): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2168): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2168): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2205): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2205): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2210): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2245): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2245): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2296): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2296): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2357): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2357): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2364): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2383): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2383): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2396): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2396): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2400): warning C4244: “=”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2402): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2406): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2542): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2542): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2584): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2584): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2600): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2600): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2614): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2614): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2635): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2635): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2649): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2649): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2677): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2677): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2682): warning C4244: “函数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2686): warning C4244: “函数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2703): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2703): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2709): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2713): warning C4244: “=”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2714): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2728): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2728): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2739): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2766): warning C4244: “=”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2823): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2823): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2847): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2891): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2891): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2894): warning C4244: “=”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2960): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2960): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2991): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(2991): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3008): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3008): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3027): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3027): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3048): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3048): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3051): warning C4244: “=”: 从“int64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3082): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3082): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3099): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3099): warning C4244: “函数”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3139): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3140): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3155): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3173): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3191): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3876): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+c:\data\code\vlc-2.2.6.32-2015\modules\demux\mp4\libmp4.c(3880): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Data\code\vlc-2.2.6.32-2015\Debug\mp4.dll) does not match the Linker's OutputFile property value (C:\Data\code\vlc-2.2.6.32-2015\Debug\vlc\plugins\demux\libmp4_plugin.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(mp4) does not match the Linker's OutputFile property value (libmp4_plugin). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     正在创建库 C:\Data\code\vlc-2.2.6.32-2015\Debug\mp4.lib 和对象 C:\Data\code\vlc-2.2.6.32-2015\Debug\mp4.exp
+  mp4.vcxproj -> C:\Data\code\vlc-2.2.6.32-2015\Debug\mp4.dll

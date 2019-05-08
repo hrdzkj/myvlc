@@ -1,0 +1,115 @@
+﻿  dllmain.cpp
+  puzzle_pce.c
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_mgt.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.c(600): warning C4244: “初始化”: 从“double”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.c(677): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.c(678): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.c(681): warning C4244: “初始化”: 从“double”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.c(702): warning C4305: “+=”: 从“double”到“float”截断
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.c(703): warning C4244: “初始化”: 从“double”转换到“int8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.c(808): warning C4305: “+=”: 从“double”到“float”截断
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.c(809): warning C4244: “=”: 从“double”转换到“int8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.c(818): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+  puzzle_mgt.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_mgt.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_mgt.c(935): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_mgt.c(938): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_mgt.c(950): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_mgt.c(952): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+  puzzle_lib.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_mgt.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  puzzle_bezier.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_bezier.c(76): warning C4305: “+=”: 从“double”到“float”截断
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_bezier.c(77): warning C4244: “初始化”: 从“double”转换到“int8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_bezier.c(86): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_bezier.c(90): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_bezier.c(96): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_bezier.c(106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_bezier.c(311): warning C4305: “初始化”: 从“double”到“float”截断
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_bezier.c(336): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_bezier.c(344): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  puzzle.c
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(453): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(463): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(510): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(523): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(527): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_arrays.h(577): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_common.h(892): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+c:\data\code\vlc-2.2.6.32-2015\include\vlc_variables.h(653): warning C4244: “return”: 从“int64_t”转换到“int”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_mgt.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle_pce.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(173): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(175): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(177): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(181): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(183): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(185): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(187): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(189): warning C4244: “=”: 从“int64_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(191): warning C4244: “=”: 从“int64_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(592): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(595): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(598): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(604): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(607): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(610): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(613): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(616): warning C4244: “=”: 从“int64_t”转换到“uint8_t”，可能丢失数据
+c:\data\code\vlc-2.2.6.32-2015\modules\video_filter\puzzle.c(619): warning C4244: “=”: 从“int64_t”转换到“uint8_t”，可能丢失数据
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Data\code\vlc-2.2.6.32-2015\Debug\puzzle.dll) does not match the Linker's OutputFile property value (C:\Data\code\vlc-2.2.6.32-2015\Debug\vlc\plugins\video_filter\libpuzzle_plugin.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(puzzle) does not match the Linker's OutputFile property value (libpuzzle_plugin). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     正在创建库 C:\Data\code\vlc-2.2.6.32-2015\Debug\puzzle.lib 和对象 C:\Data\code\vlc-2.2.6.32-2015\Debug\puzzle.exp
+  puzzle.vcxproj -> C:\Data\code\vlc-2.2.6.32-2015\Debug\puzzle.dll
